@@ -36,7 +36,7 @@ const videos = [
   {
     id: 'jkl101',
     title: 'Traditional Odia Cuisine: A Culinary Journey',
-    description: 'Discover the unique flavors, techniques, and cultural significance behind Odisha's most beloved dishes.',
+    description: "Discover the unique flavors, techniques, and cultural significance behind Odisha's most beloved dishes.",
     thumbnailUrl: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070',
     duration: '21:30',
     date: 'Jan 25, 2023',
@@ -45,7 +45,7 @@ const videos = [
   {
     id: 'mno112',
     title: 'The Art of Pattachitra: Preserving an Ancient Tradition',
-    description: 'Meet the artists keeping the ancient Odia art form of Pattachitra alive and how they're adapting it for modern audiences.',
+    description: "Meet the artists keeping the ancient Odia art form of Pattachitra alive and how they're adapting it for modern audiences.",
     thumbnailUrl: 'https://images.unsplash.com/photo-1582561833070-5187a8ac2c40?q=80&w=1974',
     duration: '27:18',
     date: 'Dec 08, 2022',
@@ -53,7 +53,7 @@ const videos = [
   },
   {
     id: 'pqr131',
-    title: 'Odisha's Dance Forms: The Rhythm of Culture',
+    title: "Odisha's Dance Forms: The Rhythm of Culture",
     description: 'An exploration of the classical and folk dance traditions of Odisha, featuring demonstrations and expert commentary.',
     thumbnailUrl: 'https://images.unsplash.com/photo-1535436113207-13b1d3e0d7d1?q=80&w=1974',
     duration: '34:22',
